@@ -18,8 +18,8 @@ This project focuses on the segmentation of brain tumors using the Brain Tumor S
 #### Sample Preprocessed Images
 Here are some examples of preprocessed MRI scans:
 
-![Preprocessed Image 1](C:\Users\bilal\Desktop\ \Brain Segmentation\Pre-processed output-1.png)
-![Preprocessed Image 2](C:\Users\bilal\Desktop\ \Brain Segmentation\Pre-processed output-2.png)
+![Preprocessed Image 1](Pre-processed-output-1.png)
+![Preprocessed Image 2](Pre-processed-output-2.png)
 
 ### Model Development
 - Used a U-Net architecture for segmentation.
@@ -46,7 +46,7 @@ The graph below shows the training and validation accuracy over epochs:
 ### Sample Predictions
 Here are some sample outputs from the segmentation model:
 
-![Prediction Image 1](Predicted Outputs.png)
+![Prediction Image 1](Predicted-Outputs.png)
 
 ## Usage
 ### Prerequisites
